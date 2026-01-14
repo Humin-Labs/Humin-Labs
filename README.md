@@ -1,11 +1,13 @@
 # Humin-Labs
 Business foundations:
 
-**Mission:**
+**Our Mission:**
 *Reduce the barriers to acquiring and applying STEM skills in daily life*
 
-**The Vision and Context of Humin Labs.**
-- long-term vision
+**Our Vision:**
+*A world where people are equipped to create, repair, and maintain the technologies they depend on.*
+
+
 - guiding principles
 - specific societal or national need(s) addressed
 - Anticipated broader impacts
